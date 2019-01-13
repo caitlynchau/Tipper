@@ -2,7 +2,7 @@
 //  SettingsViewController.swift
 //  Tipper
 //
-//  Created by Albert Chau on 12/28/18.
+//  Created by Caitlyn Chau on 12/28/18.
 //  Copyright © 2018 Caitlyn Chau. All rights reserved.
 //
 
